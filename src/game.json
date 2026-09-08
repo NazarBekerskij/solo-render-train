@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Cyberpunk 2077",
+    "category": "RPG",
+    "price": 1200,
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B8%D0%B3%D1%80%D1%8B_Cyberpunk_2077.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original"
+  },
+  {
+    "id": 2,
+    "title": "EA Sports FC 26",
+    "category": "Sports",
+    "price": 1800,
+    "rating": 4.2,
+    "inStock": true,
+    "image": "https://store-images.s-microsoft.com/image/apps.10782.13998389593372475.f02fe330-329c-4710-a223-d6ca466e3b8b.bbd6f17e-de44-4b52-8a3b-f3378c6f1cfb"
+  },
+  {
+    "id": 3,
+    "title": "Counter-Strike Prime",
+    "category": "Shooter",
+    "price": 600,
+    "rating": 4.5,
+    "inStock": false,
+    "image": "https://images.g2a.com/323x433/1x1x1/counter-strike-2-prime-status-upgrade-p10000016291/52ad3fb9125543c2b4b8c261"
+  },
+  {
+    "id": 4,
+    "title": "Football Manager 2026",
+    "category": "Simulation",
+    "price": 1500,
+    "rating": 4.9,
+    "inStock": true,
+    "image": "https://pic.sport.ua/images/news/0/19/181/middle_796382.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Watch_Dogs Complete",
+    "category": "Action",
+    "price": 400,
+    "rating": 4.3,
+    "inStock": true,
+    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6cholPt51IWYf3HEGUAtJ/2354993368c24790ebcd2211478148a3/56c4948d88a7e300458b48a0.jpg"
+  }
+]

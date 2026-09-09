@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to React Hooks",
+    "location": "Lviv, Tech Hub",
+    "speaker": "Maksym Koval",
+    "type": "free",
+    "price": 0,
+    "seats": 45,
+    "level": "Junior",
+    "format": "offline",
+    "time": {
+      "start": "2026-10-10T15:00:00",
+      "end": "2026-10-10T17:00:00"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Advanced CSS Architecture",
+    "location": "Online, Zoom",
+    "speaker": "Olena Melnyk",
+    "type": "paid",
+    "price": 500,
+    "seats": 20,
+    "level": "Middle",
+    "format": "online",
+    "time": {
+      "start": "2026-10-15T18:00:00",
+      "end": "2026-10-15T20:00:00"
+    }
+  },
+  {
+    "id": 3,
+    "name": "TypeScript Deep Dive",
+    "location": "Kyiv, Unit.City",
+    "speaker": "Andriy Shevchenko",
+    "type": "vip",
+    "price": 1200,
+    "seats": 10,
+    "level": "Senior",
+    "format": "hybrid",
+    "time": {
+      "start": "2026-10-20T12:00:00",
+      "end": "2026-10-20T16:00:00"
+    }
+  },
+  {
+    "id": 4,
+    "name": "State Management in 2026",
+    "location": "Lviv, Coworking Space",
+    "speaker": "Sofia Petrenko",
+    "type": "free",
+    "price": 0,
+    "seats": 30,
+    "level": "Middle",
+    "format": "offline",
+    "time": {
+      "start": "2026-11-05T14:00:00",
+      "end": "2026-11-05T16:00:00"
+    }
+  },
+  {
+    "id": 5,
+    "name": "UI/UX for Developers",
+    "location": "Online, Google Meet",
+    "speaker": "Dmytro Boyko",
+    "type": "paid",
+    "price": 350,
+    "seats": 25,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2026-11-12T16:00:00",
+      "end": "2026-11-12T18:30:00"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Node.js Microservices",
+    "location": "Kharkiv, Innovation Center",
+    "speaker": "Iryna Lysenko",
+    "type": "vip",
+    "price": 1500,
+    "seats": 12,
+    "level": "Senior",
+    "format": "offline",
+    "time": {
+      "start": "2026-11-18T10:00:00",
+      "end": "2026-11-18T15:00:00"
+    }
+  },
+  {
+    "id": 7,
+    "name": "JavaScript Design Patterns",
+    "location": "Odesa, IT Space",
+    "speaker": "Oleh Marchenko",
+    "type": "paid",
+    "price": 600,
+    "seats": 18,
+    "level": "Middle",
+    "format": "offline",
+    "time": {
+      "start": "2026-11-22T13:00:00",
+      "end": "2026-11-22T16:00:00"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Web Security Essentials",
+    "location": "Online, Teams",
+    "speaker": "Kateryna Bondar",
+    "type": "free",
+    "price": 0,
+    "seats": 50,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2026-11-25T17:00:00",
+      "end": "2026-11-25T19:00:00"
+    }
+  },
+  {
+    "id": 9,
+    "name": "GraphQL vs REST APIs",
+    "location": "Kyiv, Radar Tech",
+    "speaker": "Pavlo Tkachenko",
+    "type": "paid",
+    "price": 800,
+    "seats": 22,
+    "level": "Senior",
+    "format": "hybrid",
+    "time": {
+      "start": "2026-12-01T11:00:00",
+      "end": "2026-12-01T14:00:00"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Docker & Kubernetes Basics",
+    "location": "Lviv, SoftServe HQ",
+    "speaker": "Yurii Romanov",
+    "type": "vip",
+    "price": 2000,
+    "seats": 15,
+    "level": "Senior",
+    "format": "offline",
+    "time": {
+      "start": "2026-12-05T10:00:00",
+      "end": "2026-12-05T16:00:00"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Clean Code Principles",
+    "location": "Online, Zoom",
+    "speaker": "Natalia Hnatyuk",
+    "type": "free",
+    "price": 0,
+    "seats": 100,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2026-12-10T18:00:00",
+      "end": "2026-12-10T20:00:00"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Next.js 15 Fullstack",
+    "location": "Dnipro, Code Space",
+    "speaker": "Viktor Pavlenko",
+    "type": "paid",
+    "price": 950,
+    "seats": 20,
+    "level": "Middle",
+    "format": "hybrid",
+    "time": {
+      "start": "2026-12-15T14:00:00",
+      "end": "2026-12-15T18:00:00"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Python for Automation",
+    "location": "Online, Zoom",
+    "speaker": "Serhii Koval",
+    "type": "free",
+    "price": 0,
+    "seats": 60,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2026-12-18T16:00:00",
+      "end": "2026-12-18T18:00:00"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Advanced React Performance",
+    "location": "Lviv, Innovator Hub",
+    "speaker": "Maksym Koval",
+    "type": "paid",
+    "price": 1100,
+    "seats": 15,
+    "level": "Senior",
+    "format": "offline",
+    "time": {
+      "start": "2026-12-20T12:00:00",
+      "end": "2026-12-20T16:00:00"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Tailwind CSS Masterclass",
+    "location": "Online, Google Meet",
+    "speaker": "Olena Melnyk",
+    "type": "free",
+    "price": 0,
+    "seats": 40,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2027-01-10T15:00:00",
+      "end": "2027-01-10T17:30:00"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Testing with Jest & React Testing Library",
+    "location": "Kyiv, Innovation Hub",
+    "speaker": "Andriy Shevchenko",
+    "type": "paid",
+    "price": 750,
+    "seats": 25,
+    "level": "Middle",
+    "format": "hybrid",
+    "time": {
+      "start": "2027-01-14T14:00:00",
+      "end": "2027-01-14T18:00:00"
+    }
+  },
+  {
+    "id": 17,
+    "name": "SQL & Database Optimization",
+    "location": "Kharkiv, Dev Club",
+    "speaker": "Iryna Lysenko",
+    "type": "paid",
+    "price": 900,
+    "seats": 18,
+    "level": "Middle",
+    "format": "offline",
+    "time": {
+      "start": "2027-01-18T11:00:00",
+      "end": "2027-01-18T15:00:00"
+    }
+  },
+  {
+    "id": 18,
+    "name": "WebSockets in Real-Time Apps",
+    "location": "Online, Zoom",
+    "speaker": "Sofia Petrenko",
+    "type": "vip",
+    "price": 1300,
+    "seats": 12,
+    "level": "Senior",
+    "format": "online",
+    "time": {
+      "start": "2027-01-22T17:00:00",
+      "end": "2027-01-22T20:00:00"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Git & GitHub Advanced Workflows",
+    "location": "Odesa, Coworking",
+    "speaker": "Oleh Marchenko",
+    "type": "free",
+    "price": 0,
+    "seats": 35,
+    "level": "Junior",
+    "format": "offline",
+    "time": {
+      "start": "2027-01-25T13:00:00",
+      "end": "2027-01-25T16:00:00"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Introduction to Web3 & Smart Contracts",
+    "location": "Kyiv, Unit.City",
+    "speaker": "Pavlo Tkachenko",
+    "type": "vip",
+    "price": 2500,
+    "seats": 10,
+    "level": "Senior",
+    "format": "hybrid",
+    "time": {
+      "start": "2027-02-02T12:00:00",
+      "end": "2027-02-02T17:00:00"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Redux Toolkit & State Architecture",
+    "location": "Online, Teams",
+    "speaker": "Dmytro Boyko",
+    "type": "paid",
+    "price": 650,
+    "seats": 22,
+    "level": "Middle",
+    "format": "online",
+    "time": {
+      "start": "2027-02-08T16:00:00",
+      "end": "2027-02-08T19:00:00"
+    }
+  },
+  {
+    "id": 22,
+    "name": "UI/UX Design Systems",
+    "location": "Lviv, Creative Space",
+    "speaker": "Kateryna Bondar",
+    "type": "paid",
+    "price": 850,
+    "seats": 20,
+    "level": "Middle",
+    "format": "offline",
+    "time": {
+      "start": "2027-02-12T14:00:00",
+      "end": "2027-02-12T18:00:00"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Micro-Frontends Architecture",
+    "location": "Online, Zoom",
+    "speaker": "Yurii Romanov",
+    "type": "vip",
+    "price": 1800,
+    "seats": 14,
+    "level": "Senior",
+    "format": "online",
+    "time": {
+      "start": "2027-02-18T15:00:00",
+      "end": "2027-02-18T19:00:00"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Career in IT: Portfolio & Interview Prep",
+    "location": "Online, Google Meet",
+    "speaker": "Natalia Hnatyuk",
+    "type": "free",
+    "price": 0,
+    "seats": 80,
+    "level": "Junior",
+    "format": "online",
+    "time": {
+      "start": "2027-02-25T18:00:00",
+      "end": "2027-02-25T20:30:00"
+    }
+  }
+]

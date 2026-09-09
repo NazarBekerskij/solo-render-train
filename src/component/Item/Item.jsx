@@ -1,14 +1,29 @@
-function Item ({title, category, price, rating, inStock, image}) {
-return(
-    <li>
-        <h1>{title}</h1>
-        <p>{category}</p>
-        <p>{price}</p>
-        <p>{rating}</p>
-        <p>{inStock ?  "в наявності" : "не в наявності"}</p>
-        <img src={image} width={400} alt={title} />
-    </li>
-)
+import { Card, Title, Text } from './Item.styled'; 
+import { PiCityBold } from "react-icons/pi";
+import { MdDriveFileRenameOutline } from "react-icons/md";
+import { SiInfinityfree } from "react-icons/si";
+import { IoMdPricetags } from "react-icons/io";
+import { MdCalendarMonth } from "react-icons/md";
+import { SiLevelsdotfyi } from "react-icons/si";
+import { FaWpforms } from "react-icons/fa";
+
+import { formatDate } from "../../format/formatDate";
+
+
+function Item({ name, location, speaker, type, price, seats, level, format, start, end }) {
+  return (
+    <Card>
+      <Title>{name}</Title>
+      <Text><PiCityBold /> {location}</Text>
+      <Text><MdDriveFileRenameOutline /> {speaker}</Text>
+      <Text><SiInfinityfree /> {type}</Text>
+      <Text><IoMdPricetags /> {price}</Text>
+        <Text><MdCalendarMonth /> {formatDate(start, end)}</Text>
+      <Text><MdCalendarMonth /> {seats}</Text>
+      <Text><SiLevelsdotfyi /> {level}</Text>
+      <Text><FaWpforms /> {format}</Text>
+    </Card>
+  );
 }
 
-export default Item
+export default Item;
